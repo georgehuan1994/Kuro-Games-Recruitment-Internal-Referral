@@ -11,7 +11,7 @@
 - ✅ **校招/社招最新职位信息**
 - ✅ **可靠的内推通道**
 - ✅ **经验答疑&交流**
-- ✅ **一份专属的内推码，让你的简历直达 HR**
+- ✅ **一份专属的内推码，让你的简历直达用人部门**
 
 ------
 
@@ -19,7 +19,7 @@
 
 ### 1. 提交你的问题
 
-在 [Issue 区](https://github.com/georgehuan1994/Kuro-Games-Campus-Social-Recruitment-Internal-Referral/issues) 中发起提问：
+在 [Issue](https://github.com/georgehuan1994/Kuro-Games-Campus-Social-Recruitment-Internal-Referral/issues) 中发起提问：
  
  - 📌 校招流程？
  - 📌 岗位方向推荐？
@@ -41,7 +41,7 @@
 ## 💬 常见问题（FAQ）
 
 > Q: 内推码怎么用？
-> A: 使用[投递链接](https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g)进行投递即可。
+> A: 无需手动填写，使用[投递链接](https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g)进行投递即可。
 
 > Q: 哪些岗位在招人？
 > A: 技术、美术、策划、运营等多个方向持续开放，详情见[投递链接](https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g)。
@@ -53,7 +53,7 @@
 
 ## ❤️ 关于库洛游戏
 
-> 库洛游戏是一家专注于**高品质原创游戏研发**的厂商，代表作包括《战双帕弥什》《鸣潮》等，致力于打造富有深度的世界观和极致打击感的移动游戏体验。
+> 库洛游戏是一家专注于**高品质原创游戏研发**的厂商，代表作包括《战双帕弥什》《鸣潮》等，致力于打造富有深度的世界观和极致打击感的游戏体验。
 
 ------
 
@@ -65,6 +65,6 @@
 - 对内推流程有疑问
 - 想了解库洛内部技术栈/面试经验
 
-欢迎在 issue 中留言，我会尽量一一解答！
+欢迎在 [Issue](https://github.com/georgehuan1994/Kuro-Games-Campus-Social-Recruitment-Internal-Referral/issues) 中留言，我会尽量一一解答！
 
 > **记得点个 Star ⭐️ 支持一下，让更多人看到这个仓库！**
