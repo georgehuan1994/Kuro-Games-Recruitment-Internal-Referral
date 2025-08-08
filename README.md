@@ -32,18 +32,16 @@
 
 ### 2. 使用内推码，开启你的旅程
 
-内推码：**8RU7SF1**
-
  📩 投递链接：https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g
 
-> 在投递页面中**填写内推码**，可享受优先筛选 & 专属推荐！
+> 使用此投递页面进行投递，可享受优先筛选 & 专属推荐！
 
 ------
 
 ## 💬 常见问题（FAQ）
 
 > Q: 内推码怎么用？
-> A: 在投递页面填写或在简历备注处注明即可。
+> A: 使用[投递链接](https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g)进行投递即可。
 
 > Q: 哪些岗位在招人？
 > A: 技术、美术、策划、运营等多个方向持续开放，详情见[投递链接](https://kurogame.jobs.feishu.cn/s/nFs4YGH3S9g)。
